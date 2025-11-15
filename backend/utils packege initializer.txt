@@ -1,5 +1,0 @@
-# utils package initializer
-# MZ/X – utility modul csomag
-
-# Ez a file szándékosan üres.
-# Jelzi a Python számára, hogy a 'utils' mappa egy importálható csomag.
